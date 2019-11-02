@@ -25,7 +25,7 @@ Here is the architecture diagram of the Golden AMI Creation process. For more de
 
 3. Click `Generate` to generate your API key and secret key. **Store these with you locally**, so that you can use it in the next steps.
 
-4. On the Tenable homepage, Click on `Scans`, and then Click on `Scanners` on the left navigation bar. Copy the `Linking Key` from this page and **store these with you locally**, so that you can use it in the next steps.
+4. On the Tenable homepage, click on `Scans`, and then click on `Scanners` on the left navigation bar. Copy the `Linking Key` from this page and **store these with you locally**, so that you can use it in the next steps.
 ![architecture-diagram](/resources/images/linking-key.png)
 
 5. Log in to [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B01LXCD58S?qid=1571184129453&sr=0-1&ref_=srh_res_product_title) and subscribe to [Nessus Scanner (Pre-Authorized)](https://aws.amazon.com/marketplace/pp/B01LXCD58S?qid=1571184129453&sr=0-1&ref_=srh_res_product_title). This is a Bring Your Own License(BYOL) product, and you will use the license from Step 1 to provision this scanner.
