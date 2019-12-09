@@ -2,7 +2,7 @@
 
 Create a Golden AMI Pipeline integrated with a Tenable.io Scanner for vulnerability assessments of your AWS Amazon Machine Images(AMIs), and store approved images as Golden AMIs. This repository will also help you set up continuous monitoring of Amazon EC2 instances in your environment, and alert you in case an unapproved AMI is running. 
 
-This repo contains resources for building a Golden AMI Pipeline with [AWS Systems Manager](https://aws.amazon.com/systems-manager/), [AWS Config](https://aws.amazon.com/config/), [AWS Lambda](https://aws.amazon.com/lambda/), [AWS CloudWatch Events](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html), [AWS Service Catalog](https://aws.amazon.com/servicecatalog/), and the [tenable Scanner from AWS Marketplace](https://aws.amazon.com/marketplace/pp/B01BLHP02I?qid=1548203238792&sr=0-3&ref_=srh_res_product_title).
+This repo contains resources for building a Golden AMI Pipeline with [AWS Systems Manager](https://aws.amazon.com/systems-manager/), [AWS Config](https://aws.amazon.com/config/), [AWS Lambda](https://aws.amazon.com/lambda/), [AWS CloudWatch Events](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html), [AWS Service Catalog](https://aws.amazon.com/servicecatalog/), and the [tenable Scanner from AWS Marketplace](https://aws.amazon.com/marketplace/pp/B01LXCD58S?qid=1575925595168&sr=0-1&ref_=srh_res_product_title).
 
 
 ## Overview
